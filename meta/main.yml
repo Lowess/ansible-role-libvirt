@@ -1,0 +1,16 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Lowess
+  description: Libvirt KVM/QEMU VM management on Linux
+  company: "Florian Dambrine"
+  license: license (GPLv2, CC-BY, etc)
+  min_ansible_version: 1.8
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+  galaxy_tags:
+    - devops-360
+    - libvirt
