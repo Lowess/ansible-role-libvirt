@@ -1,5 +1,5 @@
 ---
-# tasks file for libvirt-provision
+# tasks file for libvirt
 
 ################################################################################
 ### Set dynamic variables
